@@ -2,7 +2,7 @@
 
 
 ## **Um gerador de piadas de programação aleatórias para descontrair enquanto você codifica!**  
-Desenvolvido com HTML, CSS e JavaScript.
+Desenvolvido com HTML, CSS e JavaScript com o uso de uma API Rest: [**Joke API**](https://v2.jokeapi.dev/)
 
 --- 
 
