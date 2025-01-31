@@ -1,4 +1,4 @@
-# **LaughBytes** 🎭
+# **LaughBytes** 🦖
 
 
 ## **Um gerador de piadas de programação aleatórias para descontrair enquanto você codifica!**  
@@ -18,7 +18,7 @@ Como a **JokeAPI** até oferece suporte ao idioma português (pt-BR), mas apenas
 
 ---
 
-![Image](https://github.com/user-attachments/assets/1b4e7aaa-3cfd-4653-b036-8d16fccf6311)
+![Image](https://github.com/user-attachments/assets/06639196-f723-4624-975d-2bdc9f0f8d56)
 
 ---
 
