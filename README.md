@@ -52,7 +52,7 @@ Como a **JokeAPI** até oferece suporte ao idioma português (pt-BR), mas apenas
 
 1. Clone o repositório:
    - **```bash**
-   - **git clone https://github.com/seu-usuario/gerador-piadas-programacao.git**
+   - **git clone [https://github.com/Dev-Fubuki/LaughBytes.git](https://github.com/Dev-Fubuki/LaughBytes.git)**
 
 ---
 
